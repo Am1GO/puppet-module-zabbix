@@ -1,6 +1,6 @@
 {
-  "name": "treydock-zabbix",
-  "version": "0.0.1",
+  "name": "AmiGO-zabbix",
+  "version": "0.0.2",
   "author": "treydock",
   "summary": "Zabbix module",
   "license": "Apache License, Version 2.0",
